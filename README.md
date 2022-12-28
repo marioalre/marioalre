@@ -13,7 +13,7 @@
 
 📫 How to reach me: 
 
-- LinkedIn: [mario-álvarez-redondo](www.linkedin.com/in/mario-álvarez-redondo)
+- LinkedIn: www.linkedin.com/in/mario-álvarez-redondo
 - Email:    malvar14@estudiantes.unileon.es / mario.ALVAREZREDONDO@estaca.eu
 
 <!--
