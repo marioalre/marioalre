@@ -2,7 +2,7 @@
 
 ✨ I am a 4th year student of Aerospace engineering at University of León, currently doing an ERASMUS exchange at ESTACA (École supérieure des techniques aéronautiques et de construction automobile)
 
-🌱 I like to code in my free time
+🌱 I enjoy programming in my spare time
 
 - Python
 - Matlab
