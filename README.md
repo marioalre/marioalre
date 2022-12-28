@@ -9,7 +9,7 @@
 - Wolfram Mathematica
 - C
 
-🔭 I am currently working on my final project, a simulator for space mission analysis with Python.
+🔭 I am currently working on my final year project, a simulator for space mission analysis with Python.
 
 📫 How to reach me: 
 
